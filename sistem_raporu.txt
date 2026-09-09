@@ -1,0 +1,5 @@
+SECUREOPS COPILOT - SISTEM RAPORU
+
+Her sey guvenli ve calisir durumda.
+Baglanti: Lokal (Cevrimdisi)
+Sifreleme: Aktif (Fernet)
